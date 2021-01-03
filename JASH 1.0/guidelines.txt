@@ -1,0 +1,22 @@
+Monsoon 2019: Computer Sysytems Engineering - I
+***********************************************
+
+Naren Akash, R J - 2018 111 020
+International Institute of Information Technology, Hyderabad
+
+**********
+Program 01
+**********
+Command-line Interface Command
+    <executable name> <file name>
+
+    -The C program transfers the reversed content of the given file to the predefined destination.
+
+**********
+Program 02
+**********
+
+Command-line Interface Command
+    <executable name> <directory name>/<new file name> <old file name> <directory name>
+
+    -The C program which checks for the existence of the directory, correctness of p1.c and the file permissions of the old file, the new file and the directory.
