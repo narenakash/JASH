@@ -1,0 +1,24 @@
+Computer Systems Engineering I
+Assignment 03
+
+Custom Shell in C with the following features:
+
+1. Foreground and Background Processes
+2. Piping
+3. Redirection
+4. Piping + Redirection
+5. User-defined functions like:
+    a. setenv var value
+    b. unsetenv var
+    c. fg number
+    d. bg number
+    e. CtrlZ
+    f. CtrlC
+    g. jobs
+    h. overkill
+    i. kjob
+
+____________________________________________________________
+Naren Akash R J; 2018-111-020
+September 27, 2019; Friday
+International Institute of Information Technology, Hyderabad
